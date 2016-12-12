@@ -1,7 +1,7 @@
 #Classical DB-schema for synonym access from HDI Containter
 
 ## Content
-Eight tables taken from SAP Netweaver EPM Conten (Sales Order Model)
+Eight tables taken from SAP Netweaver EPM Content (Sales Order Model)
 
 ## How to build schema
 1. Logon to target system with user SYSTEM or some admin user
