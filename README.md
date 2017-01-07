@@ -11,3 +11,4 @@ Eight tables taken from SAP Netweaver EPM Content (Sales Order Model)
 
 Done. Now you have a complete classical DB-schema with some EPM tables, filled with data.
 
+See blogpost https://blogs.sap.com/2017/01/07/synonyms-in-hana-xs-advanced-accessing-objects-in-an-external-schema/
